@@ -1,0 +1,1 @@
+CREate database MYLAB;
